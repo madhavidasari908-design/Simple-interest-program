@@ -1,0 +1,8 @@
+#include<stdio. h>
+int main()
+float p, n, r, si;
+p=54;
+n=6;
+r=14;
+si=p*n*r/100;
+printf("%.2f", si);
